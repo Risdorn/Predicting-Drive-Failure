@@ -8,4 +8,4 @@ The notebook can be downloaded and run on Google Colab, no extra steps are requi
 
 The data is taken from BackBlaze, https://www.backblaze.com/cloud-storage/resources/hard-drive-test-data#downloadingTheRawTestData
 
-I have used data from the year of 2016, Q1 as train data and Q4 as test data. The choice of the year is purely arbitrary.
+I have used data from the year of 2016, Q1 as train data and Q2 as test data. The choice of the year is purely arbitrary.
